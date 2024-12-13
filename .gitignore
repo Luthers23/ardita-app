@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Output build
+build/
+
+# Dependency logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Firebase specific files
+firebase-debug.log
+.firebaserc
